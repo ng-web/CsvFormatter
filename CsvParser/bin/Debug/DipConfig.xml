@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<dip>
+  <versions>
+    <version number="4">
+      <location path="C:\xRS\Output" />
+      <numberOfFields>26</numberOfFields>
+      <orderedfields>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>currency</type>
+        <type>string</type>
+        <type>currency</type>
+        <type>string</type>
+        <type>currency</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+      </orderedfields>
+    </version>
+    <version number="3">
+      <location path="C:\xRS\Output" />
+      <numberOfFields>23</numberOfFields>
+      <orderedfields>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>currency</type>
+        <type>string</type>
+        <type>currency</type>
+        <type>string</type>
+        <type>currency</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+        <type>string</type>
+      </orderedfields>
+    </version>
+  </versions>
+</dip>
+
